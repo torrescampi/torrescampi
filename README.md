@@ -1,17 +1,20 @@
 Hola, soy Estanislao!
 
+<p aling="left>
 Tengo 38 años y soy estudiante de CiberSeguridad con conocimientos en programacion,
 bases de datos y la nuve, manejo lenguajes de programacion como JAVA en el hambito backend, asi como React para fronend, MySQL para las bases de datos, juntando todo mediante metodologias SCRUM.
 En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y con Open Roads, Open Source para Blue Team con el curso de CompTIA, y AWS con finalidad de acreditacion.
+</p>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-🎯 Buscando mi primer trabajo en IT.
-✨ Amante del aprendizaje continuo.
-💻 Actualmente mejorando en Ciberseguridad, Blue Team, Red Team y AWS.
-🚀 Desarrollando proyectos JAVA, React y MySQL.🛡 Participante activo en TryHackMe.
-❤️ Contribuyendo con proyectos Open Source.
-🌎 De Tucumán, Argentina.
-📫 Contacto: estanislaotorres@gmail.com
+- 🎯 Buscando mi primer trabajo en IT.
+- ✨ Amante del aprendizaje continuo.
+- 💻 Actualmente mejorando en Ciberseguridad, Blue Team, Red Team y AWS.
+- 🚀 Desarrollando proyectos JAVA, React y MySQL.🛡 Participante activo en TryHackMe.
+- ❤️ Contribuyendo con proyectos Open Source.
+- 🌎 De Tucumán, Argentina.
+- 📫 Contacto: estanislaotorres@gmail.com
 
 
 <h4> Lenguajes y Scripting </h4>
@@ -20,6 +23,4 @@ En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </span>
