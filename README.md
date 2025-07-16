@@ -31,7 +31,7 @@ En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y
 </p>
 <h2 align="center">🛠 Sistemas Operativos </h2>
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=kali,linux,windows&perline=9" />
+<img width="320px" src="https://skillicons.dev/icons?i=kali,linux,windows&perline=9" />
 </p>
 <h2 align="center">🛠 Herramientas </h2>
 <p align="center">
@@ -39,5 +39,5 @@ En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y
 </p>
 <h2 align="center">🛠 Cloud </h2>
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nestjs,mysql,mongo,py,kali,linux,git,vscode,postman&perline=9" />
+<img width="210px" src="https://skillicons.dev/icons?i=aws,azure&perline=9" />
 </p>
