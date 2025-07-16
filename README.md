@@ -1,6 +1,7 @@
 Hola, soy Estanislao!
 
-<p aling="left>
+<!--Start Intro-->
+<p align="left">
 Tengo 38 años y soy estudiante de CiberSeguridad con conocimientos en programacion,
 bases de datos y la nuve, manejo lenguajes de programacion como JAVA en el hambito backend, asi como React para fronend, MySQL para las bases de datos, juntando todo mediante metodologias SCRUM.
 En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y con Open Roads, Open Source para Blue Team con el curso de CompTIA, y AWS con finalidad de acreditacion.
@@ -15,6 +16,8 @@ En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y
 - ❤️ Contribuyendo con proyectos Open Source.
 - 🌎 De Tucumán, Argentina.
 - 📫 Contacto: estanislaotorres@gmail.com
+
+<!--End Intro-->
 
 
 <h4> Lenguajes y Scripting </h4>
