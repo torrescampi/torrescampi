@@ -4,8 +4,8 @@
 
 - 🎯 Buscando mi primer trabajo en IT.
 - ✨ Amante del aprendizaje continuo.
-- 💻 Actualmente mejorando en Ciberseguridad, Blue Team, Red Team y AWS.
-- 🚀 Desarrollando proyectos JAVA, React y MySQL.
+- 💻 Actualmente Estudiante de Ciberseguridad y Cloud.
+- 🚀 Desarrollando proyectos con JAVA, React y MySQL.
 - 🛡 Participante activo en TryHackMe.
 - ❤️ Contribuyendo con proyectos Open Source.
 - 🌎 De Tucumán, Argentina.
@@ -14,7 +14,7 @@
 <!--End Intro-->
 
 
-<h2 align="center">🛠 Lenguajes </h2>
+<h2 align="center">🛠 Lenguajes de Programacion </h2>
 <p align="center">
 <img width="500px" src="https://skillicons.dev/icons?i=java,react,spring,maven,py&perline=9" />
 </p>
