@@ -12,7 +12,8 @@ En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y
 - 🎯 Buscando mi primer trabajo en IT.
 - ✨ Amante del aprendizaje continuo.
 - 💻 Actualmente mejorando en Ciberseguridad, Blue Team, Red Team y AWS.
-- 🚀 Desarrollando proyectos JAVA, React y MySQL.🛡 Participante activo en TryHackMe.
+- 🚀 Desarrollando proyectos JAVA, React y MySQL.
+- 🛡 Participante activo en TryHackMe.
 - ❤️ Contribuyendo con proyectos Open Source.
 - 🌎 De Tucumán, Argentina.
 - 📫 Contacto: estanislaotorres@gmail.com
@@ -20,10 +21,23 @@ En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y
 <!--End Intro-->
 
 
-<h4> Lenguajes y Scripting </h4>
-<span> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/open-vsx/dt/:namespace/:extension">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</span>
+<h2 align="center">🛠 Lenguajes </h2>
+<p align="center">
+<img width="500px" src="https://skillicons.dev/icons?i=java,react,spring,maven,py&perline=9" />
+</p>
+<h2 align="center">🛠 Base de Datos </h2>
+<p align="center">
+<img width="210px" src="https://skillicons.dev/icons?i=mysql,postgres&perline=9" />
+</p>
+<h2 align="center">🛠 Sistemas Operativos </h2>
+<p align="center">
+<img width="500px" src="https://skillicons.dev/icons?i=kali,linux,windows&perline=9" />
+</p>
+<h2 align="center">🛠 Herramientas </h2>
+<p align="center">
+<img width="500px" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&perline=9" />
+</p>
+<h2 align="center">🛠 Cloud </h2>
+<p align="center">
+<img width="500px" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nestjs,mysql,mongo,py,kali,linux,git,vscode,postman&perline=9" />
+</p>
