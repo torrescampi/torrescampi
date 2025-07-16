@@ -1,13 +1,6 @@
-Hola, soy Estanislao!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%3a46fb&lines=Hola+%F0%9F%91%8B+Soy+Estanislao!!)](https://git.io/typing-svg)
 
-<!--Start Intro-->
-<p align="left">
-Tengo 38 años y soy estudiante de CiberSeguridad con conocimientos en programacion,
-bases de datos y la nuve, manejo lenguajes de programacion como JAVA en el hambito backend, asi como React para fronend, MySQL para las bases de datos, juntando todo mediante metodologias SCRUM.
-En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y con Open Roads, Open Source para Blue Team con el curso de CompTIA, y AWS con finalidad de acreditacion.
-</p>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
 - 🎯 Buscando mi primer trabajo en IT.
 - ✨ Amante del aprendizaje continuo.
