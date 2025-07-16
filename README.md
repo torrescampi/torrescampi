@@ -34,3 +34,9 @@
 <p align="center">
 <img width="210px" src="https://skillicons.dev/icons?i=aws,azure&perline=9" />
 </p>
+
+## [Mis Proyectos](https://github.com/Marto-EndPoint/herramientas)
+
+- [Python](https://github.com/Marto-EndPoint/herramientas/tree/main/Python)
+- [Bash](https://github.com/Marto-EndPoint/herramientas/tree/main/Bash)
+- [Arduino](https://github.com/Marto-EndPoint/herramientas/tree/main/Arduino)
