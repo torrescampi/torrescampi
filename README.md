@@ -23,7 +23,7 @@ En CiberSeguridad estoy en formacion en la academia de EndPoint para Red Team, y
 <h4> Lenguajes y Scripting </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/open-vsx/dt/:namespace/:extension">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </span>
