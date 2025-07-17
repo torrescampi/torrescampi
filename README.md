@@ -13,12 +13,8 @@
 
 <!--End Intro-->
 ---
-<div align="center">
-  
-</div>
-<h2 align="center">🛠 Lenguajes de Programacion </h2>
-<p align="center">
 
+<h2 align="center">🛠 Lenguajes de Programacion </h2>
 <div align="center">
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,9 +25,7 @@
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </div>
-</p>
 <h2 align="center">🛠 Base de Datos </h2>
-<p align="center">
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,9 +34,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </div>
-</p>
 <h2 align="center">🛠 Sistemas Operativos </h2>
-<p align="center">
 <div align="center">
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -51,7 +43,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
-</p>
 <h2 align="center">🛠 Herramientas </h2>
 <div align="center">
   
@@ -86,10 +77,10 @@
 <h2 align="center">🛠 Cloud </h2>
 <div align="center">
   
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -140,7 +131,6 @@ Aquí están algunas de mis medallas obtenidas en TryHackMe:
    <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 1"  src="https://assets.tryhackme.com/img/badges/linux.svg"        width="100"></a>
   <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/security-awareness">       <img title="Security Awareness"        alt="TryHackMe badge 2"  src="https://assets.tryhackme.com/img/badges/securityawareness.svg"       width="100"></a>
   <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/web-fund">  <img title="cat linux.txt" alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/webbed.svg" width="100"></a>
- 
 </div>
 <br>
 
@@ -149,8 +139,12 @@ Aquí están algunas de mis medallas obtenidas en TryHackMe:
 - [TryHackMe](https://github.com/torrescampi/TryHackMe)
 
 ---
+<!--Footer-->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Marto-EndPoint/Marto-EndPoint/output/snake.svg" alt="Snake animation" />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
+</p>
