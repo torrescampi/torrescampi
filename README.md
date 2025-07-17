@@ -137,8 +137,9 @@
 Aquí están algunas de mis medallas obtenidas en TryHackMe:
 
 <div align="center">
-   <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 2"  src="https://assets.tryhackme.com/img/badges/linux.svg"        width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/security-awareness">       <img title="Security Awareness"        alt="TryHackMe badge 3"  src="https://assets.tryhackme.com/img/badges/securityawareness.svg"       width="100"></a>
+   <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 1"  src="https://assets.tryhackme.com/img/badges/linux.svg"        width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/security-awareness">       <img title="Security Awareness"        alt="TryHackMe badge 2"  src="https://assets.tryhackme.com/img/badges/securityawareness.svg"       width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/web-fund">  <img title="cat linux.txt" alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/webbed.svg" width="100"></a>
  
 </div>
 <br>
