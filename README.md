@@ -115,11 +115,11 @@
 ---
 
 ## [Mis Proyectos](https://github.com/torrescampi/proyectos)
-<div align="center">
- [BackEnd](https://github.com/torrescampi/proyectos/tree/main/BackEnd)
- [FronEnd](https://github.com/torrescampi/proyectos/tree/main/FronEnd)
 
-</div>
+- [BackEnd](https://github.com/torrescampi/proyectos/tree/main/BackEnd)
+- [FronEnd](https://github.com/torrescampi/proyectos/tree/main/FronEnd)
+
+
 
 ---
 ## Mi perfil de TryHackMe
