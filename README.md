@@ -76,9 +76,24 @@
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
+## Conectá conmigo:
 
-## [Mis Proyectos](https://github.com/Marto-EndPoint/herramientas)
+<div align="left">
+  <a href="https://www.linkedin.com/in/estanislaotorrescampi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/etorrescampi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://discord.com/users/estanislao" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="estanislaotorres@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
 
-- [Python](https://github.com/Marto-EndPoint/herramientas/tree/main/Python)
-- [Bash](https://github.com/Marto-EndPoint/herramientas/tree/main/Bash)
-- [Arduino](https://github.com/Marto-EndPoint/herramientas/tree/main/Arduino)
+## [Mis Proyectos](https://github.com/torrescampi/proyectos)
+
+- [JAVA](https://github.com/torrescampi/proyectos/tree/main/JAVA)
+- [React]()
