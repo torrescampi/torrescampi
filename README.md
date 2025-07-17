@@ -2,7 +2,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-- 🎯 Buscando mi primer trabajo en IT.
+- 🎯 Open to Work.
 - ✨ Amante del aprendizaje continuo.
 - 💻 Actualmente Estudiante de Ciberseguridad y Cloud.
 - 🚀 Desarrollando proyectos con JAVA, React y MySQL.
