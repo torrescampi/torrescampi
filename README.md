@@ -12,7 +12,7 @@
 - 📫 Contacto: estanislaotorres@gmail.com
 
 <!--End Intro-->
-
+---
 
 <h2 align="center">🛠 Lenguajes de Programacion </h2>
 <p align="center">
@@ -75,7 +75,7 @@
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-
+---
 ## Conectá conmigo:
 
 <div align="left">
@@ -93,7 +93,35 @@
   </a>
 </div>
 
+---
+
 ## [Mis Proyectos](https://github.com/torrescampi/proyectos)
 
-- [JAVA](https://github.com/torrescampi/proyectos/tree/main/JAVA)
-- [React]()
+- [BackEnd](https://github.com/torrescampi/proyectos/tree/main/BackEnd)
+- [FronEnd](https://github.com/torrescampi/proyectos/tree/main/FronEnd)
+
+---
+## Mi perfil de TryHackMe
+  
+<div align="center">
+  <a href="https://tryhackme.com/p/EstanislaoTorres" target="_blank">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/EstanislaoTorres.png" alt="Your Image Badge" />
+  </a>
+</div>
+
+---
+
+## Medallas
+
+Aquí están algunas de mis medallas obtenidas en TryHackMe:
+
+<div align="center">
+   <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/terminaled">   <img title="cat linux.txt" alt="TryHackMe badge 2"  src="https://assets.tryhackme.com/img/badges/linux.svg"        width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/EstanislaoTorres/badges/security-awareness">       <img title="Security Awareness"        alt="TryHackMe badge 3"  src="https://assets.tryhackme.com/img/badges/securityawareness.svg"       width="100"></a>
+ 
+</div>
+<br>
+
+## [CTF Writeups](https://github.com/torrescampi/TryHackMe)
+
+- [TryHackMe](https://github.com/torrescampi/TryHackMe)
