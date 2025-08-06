@@ -87,8 +87,8 @@
 
 ## [Mis Proyectos](https://github.com/torrescampi)
 
-- [BackEnd](https://github.com/torrescampi/proyectos/tree/main/BackEnd)
-- [FronEnd](https://github.com/torrescampi/proyectos/tree/main/FronEnd)
+- [BackEnd](https://github.com/torrescampi/BackEnd)
+- [FronEnd]()
 
 
 
