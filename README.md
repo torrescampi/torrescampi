@@ -5,7 +5,7 @@
 - 🎯 Open to Work.
 - ✨ Amante del aprendizaje continuo.
 - 💻 Actualmente Estudiante de Ciberseguridad y Cloud.
-- 🚀 Desarrollando proyectos con JAVA, React y MySQL.
+- 🚀 Desarrollando proyectos con JAVA y MySQL.
 - 🛡 Participante activo en TryHackMe.
 - ❤️ Contribuyendo con proyectos Open Source.
 - 🌎 De Tucumán, Argentina.
@@ -19,7 +19,6 @@
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </div>
 <h2 align="center">🛠 Base de Datos </h2>
