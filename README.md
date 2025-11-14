@@ -87,9 +87,8 @@
 
 ## [Mis Proyectos](https://github.com/torrescampi/Proyectos)
 
-- [Proyectos](https://github.com/torrescampi/Proyectos)
 
-
+## [Mis Certificados](https://github.com/torrescampi/Certificados)
 
 ---
 ## Mi perfil de TryHackMe
