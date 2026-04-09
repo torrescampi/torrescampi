@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%3a46fb&lines=Hola+%F0%9F%91%8B+Soy+Estanislao!!)](https://git.io/typing-svg)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/292eea4e-2744-4c33-b77d-f8b0b5ec1398" />[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%3a46fb&lines=Hola+%F0%9F%91%8B+Soy+Estanislao!!)](https://git.io/typing-svg)
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
@@ -10,6 +10,7 @@
 - ❤️ Contribuyendo con proyectos Open Source.
 - 🌎 De Tucumán, Argentina.
 - 📫 Contacto: estanislaotorres@gmail.com
+- 💻 Porfolio: https://devbytorrescampi.netlify.app/
 
 <!--End Intro-->
 ---
