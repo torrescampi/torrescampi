@@ -5,7 +5,7 @@
 - 🎯 Open to Work.
 - ✨ Amante del aprendizaje continuo.
 - 💻 Actualmente Estudiante de Ciberseguridad y Cloud.
-- 🚀 Desarrollando proyectos con JAVA y MySQL.
+- 🚀 Desarrollando proyectos con JAVA, Node.js, Next, PostgreSQL.
 - 🛡 Participante activo en TryHackMe.
 - ❤️ Contribuyendo con proyectos Open Source.
 - 🌎 De Tucumán, Argentina.
