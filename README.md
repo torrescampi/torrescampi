@@ -4,6 +4,8 @@
 
 **Full Stack Developer · Ciberseguridad · Tucumán, Argentina 🇦🇷**
 
+<a href="https://torrescampisoft.com"><img src="https://img.shields.io/badge/TorresCampi_Soft-3A46FB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web de TorresCampi Soft" /></a>
+<a href="https://www.tcsoft.com.ar/"><img src="https://img.shields.io/badge/TCSoft-3A46FB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web de TCSoft" /></a>
 <a href="https://www.linkedin.com/in/estanislaotorrescampi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:estanislaotorres@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://tryhackme.com/p/EstanislaoTorres"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
@@ -17,7 +19,7 @@
 
 Construyo software y también me dedico a romperlo, para que no lo rompa otro.
 
-- 🏢 **Fundador y CEO de TorresCampi Soft**, estudio de desarrollo y ciberseguridad. Estoy construyendo **TCSoft**, una plataforma SaaS donde corre **TCShop**, una solución para retail.
+- 🏢 **Fundador y CEO de [TorresCampi Soft](https://torrescampisoft.com)**, estudio de desarrollo y ciberseguridad. Estoy construyendo **[TCSoft](https://www.tcsoft.com.ar/)**, una plataforma SaaS donde corre **TCShop**, una solución para retail.
 - 🛡️ **Especialista en ciberseguridad en EndPoint Security**: pentesting en entornos reales, capacitación técnica y divulgación en TV y radio.
 - 💻 Backend desde 2016, full-stack desde 2024.
 - ☁️ Preparando **AWS Certified Cloud Practitioner**.
@@ -40,10 +42,19 @@ Construyo software y también me dedico a romperlo, para que no lo rompa otro.
   <img src="assets/icons/parrot.svg" alt="Parrot Security" title="Parrot Security" width="48" />
 </p>
 
-**Cloud** &nbsp;
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud" height="32" />
+**Cloud**
 
-<sub>También trabajé con Java, Spring Boot, MySQL, SQL Server y MariaDB.</sub>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=11" alt="Cloud" />
+</p>
+
+**También trabajé con**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql&perline=11" alt="Java, Spring, Maven, MySQL" />
+  <img src="assets/icons/sqlserver.svg" alt="SQL Server" title="SQL Server" width="48" />
+  <img src="assets/icons/mariadb.svg" alt="MariaDB" title="MariaDB" width="48" />
+</p>
 
 ## Proyectos
 
