@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3A46FB&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Estanislao+%F0%9F%91%8B;Full+Stack+Developer+%7C+NestJS+%2B+Next.js;Especialista+en+Ciberseguridad;Founder+%40+TorresCampi+Soft" alt="Hola, soy Estanislao" /></a>
-
-**Full Stack Developer · Ciberseguridad · Tucumán, Argentina 🇦🇷**
+<img src="assets/banner.svg" alt="Estanislao Torres Campi — Full Stack Developer, Especialista en Ciberseguridad, Founder &amp; CEO de TorresCampi Soft" width="100%" />
 
 <a href="https://torrescampisoft.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TorresCampi_Soft-3A46FB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web de TorresCampi Soft" /></a>
 <a href="https://www.tcsoft.com.ar/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TCSoft-3A46FB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web de TCSoft" /></a>
