@@ -56,10 +56,20 @@ Construyo software y también me dedico a romperlo, para que no lo rompa otro.
   <img src="assets/icons/mariadb.svg" alt="MariaDB" title="MariaDB" width="48" />
 </p>
 
-## Proyectos
+## Proyectos destacados
 
-- 📂 <a href="https://github.com/torrescampi/proyectos/tree/main/BackEnd" target="_blank" rel="noopener noreferrer">Backend</a> · <a href="https://github.com/torrescampi/proyectos/tree/main/FronEnd" target="_blank" rel="noopener noreferrer">Frontend</a>
-- 🚩 <a href="https://github.com/torrescampi/TryHackMe" target="_blank" rel="noopener noreferrer">Writeups de CTF en TryHackMe</a>
+### 🛒 TCShop
+SaaS de gestión para comercios minoristas, montado sobre la plataforma **TCSoft**.
+POS, inventario, proveedores, reportes, multi-sucursal y ecommerce, con planes por niveles y facturación electrónica **ARCA/AFIP** integrada directo contra la API oficial.
+
+<img src="https://skillicons.dev/icons?i=nestjs,nextjs,ts,postgres" alt="Stack de TCShop" height="32" />
+
+<a href="https://www.tcsoft.com.ar/" target="_blank" rel="noopener noreferrer">🌐 tcsoft.com.ar</a>
+
+### 🏢 TorresCampi Soft
+Estudio de desarrollo de software y ciberseguridad con base en Tucumán. Dos líneas de servicio: desarrollo de software, e infraestructura y seguridad.
+
+<a href="https://torrescampisoft.com" target="_blank" rel="noopener noreferrer">🌐 torrescampisoft.com</a>
 
 ## TryHackMe
 
