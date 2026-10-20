@@ -78,23 +78,10 @@ Construyo software y también me dedico a romperlo, para que no lo rompa otro.
 
 ## Proyectos destacados
 
-### 🛒 TCShop
-SaaS de gestión para comercios minoristas, montado sobre la plataforma **TCSoft**.
-POS, inventario, proveedores, reportes, multi-sucursal y ecommerce, con planes por niveles y facturación electrónica **ARCA/AFIP** integrada directo contra la API oficial.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" width="32" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="32" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="32" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="32" />
+<p align="center">
+  <a href="https://www.tcsoft.com.ar/" target="_blank" rel="noopener noreferrer"><img src="assets/cards/tcshop.svg" alt="TCShop — SaaS de gestión para comercios minoristas" title="TCShop" width="48%" /></a>
+  <a href="https://torrescampisoft.com" target="_blank" rel="noopener noreferrer"><img src="assets/cards/torrescampisoft.svg" alt="TorresCampi Soft — Estudio de desarrollo de software y ciberseguridad" title="TorresCampi Soft" width="48%" /></a>
 </p>
-
-<a href="https://www.tcsoft.com.ar/" target="_blank" rel="noopener noreferrer">🌐 tcsoft.com.ar</a>
-
-### 🏢 TorresCampi Soft
-Estudio de desarrollo de software y ciberseguridad con base en Tucumán. Dos líneas de servicio: desarrollo de software, e infraestructura y seguridad.
-
-<a href="https://torrescampisoft.com" target="_blank" rel="noopener noreferrer">🌐 torrescampisoft.com</a>
 
 ## TryHackMe
 
