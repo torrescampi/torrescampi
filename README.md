@@ -1,15 +1,15 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3A46FB&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Estanislao+%F0%9F%91%8B;Full+Stack+Developer+%7C+NestJS+%2B+Next.js;Especialista+en+Ciberseguridad;Founder+%40+TorresCampi+Soft" alt="Hola, soy Estanislao" /></a>
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3A46FB&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Estanislao+%F0%9F%91%8B;Full+Stack+Developer+%7C+NestJS+%2B+Next.js;Especialista+en+Ciberseguridad;Founder+%40+TorresCampi+Soft" alt="Hola, soy Estanislao" /></a>
 
 **Full Stack Developer · Ciberseguridad · Tucumán, Argentina 🇦🇷**
 
-<a href="https://torrescampisoft.com"><img src="https://img.shields.io/badge/TorresCampi_Soft-3A46FB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web de TorresCampi Soft" /></a>
-<a href="https://www.tcsoft.com.ar/"><img src="https://img.shields.io/badge/TCSoft-3A46FB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web de TCSoft" /></a>
-<a href="https://www.linkedin.com/in/estanislaotorrescampi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:estanislaotorres@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://tryhackme.com/p/EstanislaoTorres"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-<a href="https://www.instagram.com/etorrescampi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://torrescampisoft.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TorresCampi_Soft-3A46FB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web de TorresCampi Soft" /></a>
+<a href="https://www.tcsoft.com.ar/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TCSoft-3A46FB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web de TCSoft" /></a>
+<a href="https://www.linkedin.com/in/estanislaotorrescampi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:estanislaotorres@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://tryhackme.com/p/EstanislaoTorres" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+<a href="https://www.instagram.com/etorrescampi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 Construyo software y también me dedico a romperlo, para que no lo rompa otro.
 
-- 🏢 **Fundador y CEO de [TorresCampi Soft](https://torrescampisoft.com)**, estudio de desarrollo y ciberseguridad. Estoy construyendo **[TCSoft](https://www.tcsoft.com.ar/)**, una plataforma SaaS donde corre **TCShop**, una solución para retail.
+- 🏢 **Fundador y CEO de <a href="https://torrescampisoft.com" target="_blank" rel="noopener noreferrer">TorresCampi Soft</a>**, estudio de desarrollo y ciberseguridad. Estoy construyendo **<a href="https://www.tcsoft.com.ar/" target="_blank" rel="noopener noreferrer">TCSoft</a>**, una plataforma SaaS donde corre **TCShop**, una solución para retail.
 - 🛡️ **Especialista en ciberseguridad en EndPoint Security**: pentesting en entornos reales, capacitación técnica y divulgación en TV y radio.
 - 💻 Backend desde 2016, full-stack desde 2024.
 - ☁️ Preparando **AWS Certified Cloud Practitioner**.
@@ -58,13 +58,13 @@ Construyo software y también me dedico a romperlo, para que no lo rompa otro.
 
 ## Proyectos
 
-- 📂 [Backend](https://github.com/torrescampi/proyectos/tree/main/BackEnd) · [Frontend](https://github.com/torrescampi/proyectos/tree/main/FronEnd)
-- 🚩 [Writeups de CTF en TryHackMe](https://github.com/torrescampi/TryHackMe)
+- 📂 <a href="https://github.com/torrescampi/proyectos/tree/main/BackEnd" target="_blank" rel="noopener noreferrer">Backend</a> · <a href="https://github.com/torrescampi/proyectos/tree/main/FronEnd" target="_blank" rel="noopener noreferrer">Frontend</a>
+- 🚩 <a href="https://github.com/torrescampi/TryHackMe" target="_blank" rel="noopener noreferrer">Writeups de CTF en TryHackMe</a>
 
 ## TryHackMe
 
 <div align="center">
-  <a href="https://tryhackme.com/p/EstanislaoTorres">
+  <a href="https://tryhackme.com/p/EstanislaoTorres" target="_blank" rel="noopener noreferrer">
     <img src="https://tryhackme-badges.s3.amazonaws.com/EstanislaoTorres.png" alt="Perfil de TryHackMe" />
   </a>
   <br/><br/>
